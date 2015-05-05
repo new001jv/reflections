@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it? 
+
+	It adds the hidden Git file. The added file is added to the untracked files. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	It allowed you to add certain files to the repository with out adding everything. It gives you more control on what you can add. 
