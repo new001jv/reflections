@@ -17,3 +17,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collarborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	A first group project I worked on we used dropbox to store our project. It was easy to set up and had revision history but only one person could work at it at a time. Then we set up GitHub and had an easier time knowing who did what.
+
+When would you want to make changes in a sperate branch rather than directly in master? What benefits does each approach have?
+
+	So you can make changes without possibly breaking the master build. Also for collaboration so others canr review your work.
